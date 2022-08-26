@@ -1,0 +1,7 @@
+{
+    "conexion": {
+        "server": "localhost/XE",
+        "user": "jack",
+        "password": "jack"
+    }
+}
